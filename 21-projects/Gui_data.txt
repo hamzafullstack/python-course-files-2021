@@ -1,0 +1,4 @@
+Ali haider baloch,20,baloch@gmail.com,Male,Student,YES
+Ahmed,19,ahmed@gmail.com.com,Male,Student,YES
+Rehan,18,rehan@gmail.com,Male,Student,YES
+Muzammil,16,muzamil@yahoo.com,Male,Student,YES
