@@ -1,0 +1,7 @@
+# name, char = input("enter comma seprated name and characters ").split(",")
+# print(f"length of your name is {len(name)}")
+# #print(f"Character count : {name.count(char)}")
+# print(f"Character count : {name.lower().count(char.lower())}")
+name, char = input("enter comma seprated name and characters ").split(",")
+print(f"length of your name is {len(name)}")
+print(f"character count : {name.lower().count(char.lower())}")
