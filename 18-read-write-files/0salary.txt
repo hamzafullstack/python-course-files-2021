@@ -1,0 +1,3 @@
+sattar,300
+hamza,350
+muzammil,150
